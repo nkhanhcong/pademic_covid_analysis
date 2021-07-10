@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <p>Testings</p>
+          <p>Hello testing 2</p>
           Learn React
         </a>
       </header>
