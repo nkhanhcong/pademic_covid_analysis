@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pademic_covid_analysis/static/css/main.a617e044.chunk.css",
+    "main.js": "/pademic_covid_analysis/static/js/main.b0408406.chunk.js",
+    "main.js.map": "/pademic_covid_analysis/static/js/main.b0408406.chunk.js.map",
+    "runtime-main.js": "/pademic_covid_analysis/static/js/runtime-main.91158872.js",
+    "runtime-main.js.map": "/pademic_covid_analysis/static/js/runtime-main.91158872.js.map",
+    "static/js/2.1c42ddd0.chunk.js": "/pademic_covid_analysis/static/js/2.1c42ddd0.chunk.js",
+    "static/js/2.1c42ddd0.chunk.js.map": "/pademic_covid_analysis/static/js/2.1c42ddd0.chunk.js.map",
+    "static/js/3.3c3f9d33.chunk.js": "/pademic_covid_analysis/static/js/3.3c3f9d33.chunk.js",
+    "static/js/3.3c3f9d33.chunk.js.map": "/pademic_covid_analysis/static/js/3.3c3f9d33.chunk.js.map",
+    "index.html": "/pademic_covid_analysis/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pademic_covid_analysis/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1c42ddd0.chunk.js.LICENSE.txt": "/pademic_covid_analysis/static/js/2.1c42ddd0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pademic_covid_analysis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91158872.js",
+    "static/js/2.1c42ddd0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b0408406.chunk.js"
+  ]
+}
